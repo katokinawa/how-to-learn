@@ -1,0 +1,11 @@
+.rotation {
+  animation: rotation 20s linear infinite;
+}
+
+.link-opacity {
+  transition: opacity 1s linear 0.1s;
+}
+
+.link-opacity:hover {
+  opacity: 0.50;
+}
