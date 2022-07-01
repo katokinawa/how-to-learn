@@ -1,6 +1,9 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/animation/animation.css);
-@import url(../blocks/animation/__rotation/animation__rotation.css);
+@import url(../blocks/link-opacity/link-opacity.css);
+@import url(../blocks/link-opacity/__keyframes/link-opacity__keyframes.css);
+@import url(../blocks/rotation/rotation.css);
+@import url(../blocks/rotation/__keyframes/rotation__keyframes.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/header/header.css);
